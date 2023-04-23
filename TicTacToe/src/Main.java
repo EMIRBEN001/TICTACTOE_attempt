@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println("Beat the Computer!");
 
-        //2D array for the ti tac toe board
+        //creating the map for the tictactoe board
         char [] [] gameboard = {{' ', '|', ' ', '|', ' '},
                                 {'-', '+', '-', '+', '-'},
                                 {' ', '|', ' ', '|', ' '},
